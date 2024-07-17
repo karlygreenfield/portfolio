@@ -66,3 +66,7 @@ footer {
     background: #333;
     color: #fff;
 }
+
+div {
+  display: flex;
+}
