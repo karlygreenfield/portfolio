@@ -68,5 +68,9 @@ footer {
 }
 
 div {
+  padding: 20px 10%;
+  margin: 20px 0;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   display: flex;
 }
